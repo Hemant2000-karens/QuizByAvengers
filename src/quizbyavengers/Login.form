@@ -188,7 +188,7 @@
                           <Component id="lbtn1" min="-2" pref="20" max="-2" attributes="0"/>
                           <EmptySpace type="separate" max="-2" attributes="0"/>
                           <Component id="jCheckBox1" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace pref="154" max="32767" attributes="0"/>
+                          <EmptySpace pref="166" max="32767" attributes="0"/>
                           <Component id="kGradientPanel2" min="-2" max="-2" attributes="0"/>
                           <EmptySpace type="unrelated" max="-2" attributes="0"/>
                           <Component id="redirect2signup" min="-2" max="-2" attributes="0"/>
